@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: stack.StackTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.054 s <<< FAILURE! - in stack.StackTest
+testeIsEmpty(stack.StackTest)  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError: not yet implemented
+	at stack.StackTest.testeIsEmpty(StackTest.java:11)
+
