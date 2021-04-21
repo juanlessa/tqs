@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: stack.StackTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.051 s <<< FAILURE! - in stack.StackTest
+testPoppingEmptyStack  Time elapsed: 0.012 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	Lambda expressions are allowed only at source level 1.8 or above
+	Lambda expressions are allowed only at source level 1.8 or above
+
+	at stack.StackTest.testPoppingEmptyStack(StackTest.java:95)
+
